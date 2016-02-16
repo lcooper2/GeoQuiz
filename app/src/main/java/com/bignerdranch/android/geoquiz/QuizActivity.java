@@ -122,6 +122,6 @@ public class QuizActivity extends AppCompatActivity {
     @Override
     public void onDestroy() {
         super.onDestroy();
-        Log.d(TAG, "onDestroy() called");
+        Log.d(TAG, "onDestroy() called"); //
     }
 }
